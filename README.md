@@ -1,4 +1,4 @@
 # Meu primeiro repositório
- Primeiro repositorio versionado
+ Primeiro repositório versionado
 
 Repositório criado durante primeira aula de Git
