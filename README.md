@@ -7,4 +7,4 @@ Essa linha foi add direto
 
 Aulas feitas através do canal Curso em Video
 
-Aulas do dia 27/08/24 sobre Issues
+Aulas do dia 27/08/24 sobre Issues and puplic quests
